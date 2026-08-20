@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40be584291662e74084e34692879d88d, type: 3}
+  m_Name: Bathroom Shower Door
+  m_EditorClassIdentifier: Assembly-CSharp::InteractableObjectSO
+  clean: {fileID: 21300000, guid: e6ccf13a93d91457288a0d6eb143ab97, type: 3}
+  dirty: {fileID: 21300000, guid: 03dc43073cbca466dabf84287f099e15, type: 3}
+  trashSprites: []
+  whiteVer: {fileID: 21300000, guid: a3de5f4bed0f2469f878b9e99f41cc45, type: 3}
+  tool: Scrub
+  audioClip:
+  - {fileID: 8300000, guid: 2c8e692cdcb4c48a181d5561ff5b2444, type: 3}
+  - {fileID: 8300000, guid: be8c0627d3d7a4734b631958dc59480f, type: 3}
